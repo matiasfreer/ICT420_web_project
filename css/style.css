@@ -13,16 +13,13 @@ h2 + h3 {
 
 section p {
     color: gray;
+    background-color: yellow;
 }
 
 .italics {
     font-style: italic;
 }
 
-p {
-    background-color: yellow;
-}
-
-header {
-    font-size: 1.5em;
+ul + ol {
+    font-size: 1.5;
 }
