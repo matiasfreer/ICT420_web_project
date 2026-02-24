@@ -7,10 +7,22 @@ h1 {
     color: blue;
 }
 
+h2 + h3 {
+    color: lightblue;
+}
+
 section p {
     color: gray;
 }
 
 .italics {
     font-style: italic;
+}
+
+p {
+    background-color: yellow;
+}
+
+header {
+    font-size: 1.5em;
 }
