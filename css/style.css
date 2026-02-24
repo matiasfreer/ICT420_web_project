@@ -1,0 +1,16 @@
+html {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+section p {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
