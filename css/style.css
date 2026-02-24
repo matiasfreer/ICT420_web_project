@@ -12,15 +12,14 @@ h2 + h3 {
 }
 
 section p {
-    color: gray;
-    background-color: yellow;
+    color:magenta;
+    background-color: green;
 }
 
 .italics {
     font-style: italic;
 }
 
-ul + ol {
-    font-size: 1.5em;
+ul, ol  {
     background-color: gray;
 }
