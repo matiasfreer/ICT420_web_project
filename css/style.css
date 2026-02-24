@@ -21,6 +21,6 @@ section p {
 }
 
 ul + ol {
-    font-size: 1.5;
+    font-size: 1.5em;
     background-color: gray;
 }
