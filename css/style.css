@@ -26,6 +26,11 @@ ul, ol  {
 
 body {
     border: 2px solid black;
-    margin: 3rem 4rem 3rem 4rem;
-
+    margin: 2rem 2rem 2rem 2rem;
 }
+
+section {
+    border: 1px solid black;
+    margin: 1em 1em 1em 1em;
+}
+
