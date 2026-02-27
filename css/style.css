@@ -26,8 +26,6 @@ ul, ol  {
 
 body {
     border: 2px solid black;
-}
-
-section {
+    margin: 2rem;
     
 }
