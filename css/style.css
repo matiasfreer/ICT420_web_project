@@ -23,3 +23,7 @@ section p {
 ul, ol  {
     background-color: gray;
 }
+
+* {
+  border: 1px solid black;
+}
