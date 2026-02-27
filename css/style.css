@@ -44,6 +44,7 @@ main {
 section {
     border: 2px solid black;
     margin: 2em 2em 2em 2em;
+    background-color: white;
 }
 
 section > p {
