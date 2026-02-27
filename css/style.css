@@ -43,3 +43,8 @@ section > p {
     margin: 1em 1em 1em 1em;
     padding: 10px;
 }
+
+picture {
+    border: 3px solid black;
+    margin: auto;
+}
