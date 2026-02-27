@@ -24,6 +24,10 @@ ul, ol  {
     background-color: gray;
 }
 
-* {
-  border: 1px solid black;
+body {
+    border: 2px solid black;
+}
+
+section {
+    
 }
