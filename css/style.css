@@ -31,8 +31,7 @@ section p {
 ul, ol  {
     background-color: gray;
     border: 1px solid black;
-    margin: auto;
-    width: 1200px;
+    margin: 0.5em 5rem 0.5em 5rem;
 }
 
 main {
