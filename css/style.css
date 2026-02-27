@@ -27,7 +27,7 @@ section p {
 ul, ol  {
     background-color: gray;
     border: 1px solid black;
-    margin: 2em 15em 2em 2em;
+    margin: 2em 15em 2em 15em;
 }
 
 body {
@@ -44,4 +44,8 @@ section > p {
     border: 1px solid black;
     margin: 1em 1em 1em 1em;
     padding: 10px;
+}
+
+picture {
+    margin: 2em 2em 2em 2em;
 }
