@@ -55,7 +55,8 @@ section > p {
 }
 
 picture {
-    margin: 1rem 5rem 1rem 5rem;
+    width: 500px;
+    margin: auto;
 }
 
 .parent-box {
