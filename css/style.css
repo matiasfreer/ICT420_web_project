@@ -68,4 +68,5 @@ picture {
     width: 100%;
     padding: 20px;
     border: 3px solid red;
+    box-sizing: border-box;
 }
