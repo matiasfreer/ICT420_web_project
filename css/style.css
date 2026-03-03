@@ -68,6 +68,7 @@ section > p {
 }
 
 picture {
+    display: block;
     margin: auto;
     width: 100%;
 }
