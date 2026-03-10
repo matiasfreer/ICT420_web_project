@@ -70,8 +70,7 @@ section > p {
 picture {
     display: block;
     margin: auto;
-    width: 400px; /* or 75% */
-    height: 300px;
+    width: 75%;
 }
 
 .parent-box {
