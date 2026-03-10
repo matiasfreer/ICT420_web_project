@@ -11,8 +11,8 @@ h1 {
 }
 
 h2 {
-    background-color: yellow;
-    border: 1px solid yellow;
+    background-color: #DCE8F2;
+    border: 1px solid #DCE8F2;
     margin: 1em 1em 1em 1em;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 1.8rem;
@@ -20,8 +20,8 @@ h2 {
 }
 
 h3 {
-    background-color: yellow;
-    border: 1px solid yellow;
+    background-color: #DCE8F2;
+    border: 1px solid #DCE8F2;
     margin: 1em 1em 1em 1em;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 1.3rem;
@@ -29,8 +29,8 @@ h3 {
 }
 
 section p {
-    color: #E2E8F0;
-    background-color: #0F172A;
+    color: #1E3A5F;
+    background-color: #DCE8F2;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem;
     font-weight: 400;
@@ -43,8 +43,8 @@ section p {
 }
 
 ul, ol  {
-    background-color: gray;
-    border: 1px solid black;
+    background-color: #EEF2F5;
+    border: 1px solid #EEF2F5;
     margin: 0.5em 7em 0.5em 7em;
 
 }
