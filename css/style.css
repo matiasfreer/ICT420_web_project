@@ -46,6 +46,7 @@ ul, ol  {
     background-color: gray;
     border: 1px solid black;
     margin: 0.5em 7em 0.5em 7em;
+
 }
 
 main {
@@ -69,9 +70,8 @@ section > p {
 
 picture {
     border: 1px solid black;
-    /* display: block; */
+    width: 70%;
     margin: auto;
-    /* width: 75%; */
     float: right;
 }
 
