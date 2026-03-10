@@ -45,11 +45,18 @@ section p {
     font-style: italic;
 }
 
-ul, ol  {
+ol  {
     background: linear-gradient(#F8FAFC, #E2E8F0);
     border: 1px solid black;
     margin: 0.5em 7em 0.5em 7em;
 
+}
+
+ul  {
+    background: linear-gradient(#F8FAFC, #E2E8F0);
+    border: 1px solid black;
+    margin: 0.5em 7em 0.5em 7em;
+    list-style-type: U+1F600;
 }
 
 main {
