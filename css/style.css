@@ -71,7 +71,7 @@ section > p {
 picture {
     border: 1px solid black;
     margin: auto;
-    float: right;
+    width: 50%;
 }
 
 .parent-box {
