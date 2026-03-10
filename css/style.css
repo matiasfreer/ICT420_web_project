@@ -70,7 +70,7 @@ section > p {
 picture {
     display: block;
     margin: auto;
-    width: 75%;
+    /* width: 75%; */
     float: right;
 }
 
