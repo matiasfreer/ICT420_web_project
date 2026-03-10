@@ -1,6 +1,7 @@
 html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 100%;
+    background-color: #F8FAFC;
 }
 
 h1 {
@@ -11,8 +12,8 @@ h1 {
 }
 
 h2 {
-    background-color: #DCE8F2;
-    border: 1px solid #DCE8F2;
+    background-color: #CBD5E1;
+    border: 1px solid black;
     margin: 1em 1em 1em 1em;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 1.8rem;
@@ -20,8 +21,8 @@ h2 {
 }
 
 h3 {
-    background-color: #DCE8F2;
-    border: 1px solid #DCE8F2;
+    background-color: #CBD5E1;
+    border: 1px solid black;
     margin: 1em 1em 1em 1em;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 1.3rem;
@@ -53,7 +54,7 @@ main {
     border: 3px solid black;
     width: 1200px;
     margin: auto;
-    background-color: lightblue;
+    background-color: #DCEAF2;
 }
 
 section {
