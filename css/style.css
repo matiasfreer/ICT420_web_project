@@ -83,6 +83,7 @@ picture {
     display: block;
     margin: auto;
     width: 50%;
+    background-color: #E2ECF3;
 }
 
 picture img {
