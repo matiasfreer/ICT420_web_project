@@ -61,6 +61,8 @@ ul  {
 
 ul > nav {
     display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
 }
 
 main {
