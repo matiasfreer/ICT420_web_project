@@ -60,6 +60,7 @@ ul  {
     list-style-type: "\1F600";
     flex-flow: row wrap;
     justify-content: center;
+    padding: 10px
 }
 
 main {
