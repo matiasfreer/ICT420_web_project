@@ -59,7 +59,7 @@ ul  {
     margin: 0.5em 7em 0.5em 7em;
     list-style-type: "\1F600";
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 5px
 }
 
