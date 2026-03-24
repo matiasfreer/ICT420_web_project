@@ -63,6 +63,7 @@ ul > nav {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    list-style: inside;
 }
 
 main {
