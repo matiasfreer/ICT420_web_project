@@ -60,7 +60,6 @@ ul  {
     list-style-type: "\1F600";
     flex-flow: row wrap;
     justify-content: center;
-    list-style: inside;
 }
 
 main {
