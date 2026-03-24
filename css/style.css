@@ -59,7 +59,7 @@ ul  {
     list-style-type: "\1F600";
 }
 
-ul > nav {
+nav ul {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
