@@ -76,7 +76,7 @@ section {
     background-color: white;
 }
 
-section > p {
+section p {
     border: 1px solid black;
     margin: 1em 1em 1em 1em;
     padding: 10px;
