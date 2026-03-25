@@ -117,3 +117,14 @@ picture img {
 .two-column > div {
     flex: 1;
 }
+
+.three-column {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    padding: 1em;
+}
+
+.three-column > div {
+    flex: 1;
+}
