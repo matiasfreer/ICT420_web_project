@@ -4,6 +4,10 @@ html {
     background-color: #EDEFF2;
 }
 
+header {
+    margin-bottom: 1em;
+}
+
 h1 {
     margin: 1em 1em 1em 2em;
     font-family: Georgia, "Times New Roman", serif;
