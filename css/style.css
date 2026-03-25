@@ -56,7 +56,7 @@ ul  {
     display: flex;
     background: linear-gradient(#F8FAFC, #E2E8F0);
     border: 1px solid black;
-    margin: auto;   /* 0.5em 7em 0.5em 7em */
+    margin: 0.5em 0em 0.5em 0em;   /* 0.5em 7em 0.5em 7em */
     list-style-type: "\1F600";
     flex-flow: row wrap;
     justify-content: space-around;
