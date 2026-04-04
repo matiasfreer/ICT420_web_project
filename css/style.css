@@ -52,6 +52,7 @@ section p {
 
 .italics {
     font-style: italic;
+    color: red;
 }
 
 ol {
