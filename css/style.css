@@ -114,9 +114,11 @@ picture img {
     display: flex;
     gap: 1em;
     padding: 1em;
+    flex-flow: row wrap;
 }
 
 .two-column > div,
 .three-column > div {
     flex: 1;
+    flex-flow: row wrap;
 }
